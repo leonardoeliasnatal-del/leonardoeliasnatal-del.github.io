@@ -1,9 +1,9 @@
 TUBE RUSH - AVISOS DE LICENCIAS DE TERCEROS / THIRD-PARTY LICENSE NOTICES
 ==============================================================================
 
-Tube Rush © 2026 Leonardo Elias Natal (Natal Games). Todos los derechos reservados.
+Lumo: Neon Worlds © 2026 Leonardo Elias Natal (Natal Games). Todos los derechos reservados.
 Los gráficos, la música y los efectos de sonido del juego son originales.
-Tube Rush includes the open-source software and fonts listed below.
+Lumo: Neon Worlds includes the open-source software and fonts listed below.
 
 ==============================================================================
 Phaser (motor del juego)
